@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+.container{
+    background-image: url('/assets/back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1000px;
+}
+.row{
+    color: brown;
+}
+
+

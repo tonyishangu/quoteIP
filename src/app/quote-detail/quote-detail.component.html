@@ -1,0 +1,7 @@
+<p> Author: {{quote.description}}</p>
+<p>Submitted By: {{quote.submiter}}</p>
+<p>Likes {{ numberOfLikes }} </p>
+<p>Dislikes {{ numberOfDislikes }} </p>
+<button (click)="likeButtonClick()" class="btn btn-success">Like</button>
+<button (click)="dislikeButtonClick()" class="btn btn-outline-danger">Dislike</button><br>
+<button (click)='quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
