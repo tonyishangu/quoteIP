@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Autor
 Tony Ishangu
 
+## Description
+This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
