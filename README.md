@@ -44,3 +44,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * cd Quotes-app
 
 * code . or atom . based on the text editor you have.
+
+## Known Bugs
+* highlight directive property does not work properly
+
+* date posted does not show
