@@ -49,3 +49,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * highlight directive property does not work properly
 
 * date posted does not show
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [tonyishangu@gmail.com]
