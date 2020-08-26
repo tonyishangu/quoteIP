@@ -5,3 +5,5 @@
 <button (click)="likeButtonClick()" class="btn btn-success">Like</button>
 <button (click)="dislikeButtonClick()" class="btn btn-outline-danger">Dislike</button><br>
 <button (click)='quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
+<h6> Posted: {{quote.date|datePipe}} days
+        ago. </h6>
